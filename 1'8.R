@@ -1,0 +1,6 @@
+nums = c(10, 20, 30)
+print('Original vector:')
+print(nums)   
+print(paste("Sum :",sum(nums)))
+print(paste("Mean :",mean(nums)))
+print(paste("Product :",prod(nums)))
